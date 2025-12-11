@@ -1,7 +1,0 @@
-{"username":"3x","option":"Jazz Database","phoneNumber":"0300686256312","status":"activate","link":"https:\/\/whatsapp.com\/channel\/0029Va6SKoRKAwEczi7I7u0i","image":"IMG-20240706-WA0015.jpg"}
-{"username":"3x","option":"Ufone Database","phoneNumber":"0300686256312","status":"activate","image":"IMG-20240706-WA0014.jpg","link":"https:\/\/whatsapp.com\/channel\/0029Va6SKoRKAwEczi7I7u0i"}
-{"username":"3x","option":"CNIC Issue Date","phoneNumber":"0300686256312","status":"activate","image":"IMG-20240706-WA0012.jpg","link":"https:\/\/whatsapp.com\/channel\/0029Va6SKoRKAwEczi7I7u0i"}
-{"username":"3x","option":"Father Name","phoneNumber":"0300686256312","status":"activate","picture":"","link":"Njansnsnsnsnsnssnsjsnsnsnsns","image":"IMG-20240706-WA0014.jpg"}
-{"username":"3x","option":"Mother Name","phoneNumber":"3006862562","status":"activate","picture":"","link":"https:\/\/whatsapp.com\/channel\/0029Va6SKoRKAwEczi7I7u0i","image":"IMG-20240706-WA0055.jpg"}
-{"username":"aaaaa","option":"Zong Database","phoneNumber":"089770707077","status":"activate","picture":"","link":"https:\/\/whatsapp.com\/channel\/0029Va6SKoRKAwEczi7I7u0i","image":"IMG-20240706-WA0069.jpg"}
-{"username":"Asad1234","option":"Jazz Database","phoneNumber":"3006862562","status":"activate","picture":"","link":"https:\/\/whatsapp.com\/channel\/0029Va6SKoRKAwEczi7I7u0i","image":"IMG-20240706-WA0069.jpg"}
